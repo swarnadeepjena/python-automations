@@ -2,8 +2,8 @@
 
 import boto3
 
-ACCESS_KEY='AKIAXYIYL77WTDTAJRMS'
-SECRET_KEY='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'
+ACCESS_KEY='***'
+SECRET_KEY='***'
 
 
 # # Initialize the ECS client
